@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">样好陈皮印记</title>
+  <rect x="3" y="3" width="90" height="90" rx="5" fill="#b34e32"/>
+  <rect x="9" y="9" width="78" height="78" rx="2" fill="none" stroke="#f0d9ac" stroke-width="1.5"/>
+  <text x="48" y="43" text-anchor="middle" font-family="KaiTi, STKaiti, serif" font-size="31" font-weight="700" fill="#fff3da">样</text>
+  <text x="48" y="76" text-anchor="middle" font-family="KaiTi, STKaiti, serif" font-size="31" font-weight="700" fill="#fff3da">好</text>
+</svg>
